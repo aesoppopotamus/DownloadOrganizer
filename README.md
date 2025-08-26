@@ -1,5 +1,5 @@
 # DownloadOrganizer
-A lightweight WinForms system tray application that automatically organizes your **Downloads** folder into categorized subfolders on demand.
+A lightweight WinForms system tray application that automatically organizes your `C:\Users\*username*\Downloads` folder into categorized subfolders on demand.
 
 ## Installation
 
