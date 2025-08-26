@@ -27,7 +27,7 @@ A lightweight WinForms system tray application that automatically organizes your
 | `.html`, `.htm`, `.json`            | WebDownloads       |
 | `.3mf`                              | BambuStudio        |
 
-The app reads sorting rules from sortdownloads_rules.json in its working directory.
+The app reads sorting rules from `sortdownloads_rules.json` in its working directory.
 Edit this file to add custom file extensions or change target folders.
 
 Example:
